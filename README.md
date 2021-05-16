@@ -24,7 +24,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 簡単なメトロノームを作ることができます  
 4ファイルあり、2つはWindows用、2つはＭac用です。ただしMac用は動作確認が出来ていません。  
 simple metronomeは一定間隔で音の鳴らすだけのメトロノームです。  
-super metronomeはこれの拍子機能を追加したものです。  　
+super metronomeはこれの拍子機能を追加したものです。  
 標準ライブラリのみを使用しているので、外部ライブラリのインストールは不要です。  
 ライセンスフリーでご自由にご利用いただけます。  
 著作権表示等も不要でご自由に改変ください。  
